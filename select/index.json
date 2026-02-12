@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOKYO BEBE",
+  "base_artist": "TOPHAMHAT-KYO",
+  "createdAt": "2026-02-12T12:20:55.803439Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO BEBE",
+      "artist": "TOPHAMHAT-KYO",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_BEBE_TOPHAMHAT-KYO.txt"
+    }
+  ]
+}
